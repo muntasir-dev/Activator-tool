@@ -1,6 +1,7 @@
 # Tool-Activator🔥
 
 * This Is A tool Which can Activate Windows 8,8.1,10 (32/64)Bit
+* Microsoft Office 2013,2016,-Latest (32/64)bit
 * No need to deactivate "Windows Defender"
 
 * `Just Press on the "Code" Button,`
